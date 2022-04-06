@@ -1,3 +1,16 @@
-.servers {
-  max-width: 50%;
+.app-title a {
+  color:rgb(0,0,0);
+  text-decoration: underline;
+}
+
+.app-title a span {
+  color:rgb(255,0,0);
+}
+
+.app-title a:hover {
+  color:rgb(255,0,0);
+}
+
+.app-title a:hover span {
+  color:rgb(0,0,0);
 }
